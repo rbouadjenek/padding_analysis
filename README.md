@@ -1,1 +1,1 @@
-# padding_analysis
+# Understand the impact of padding on Recurrent Neural Networks
